@@ -3,6 +3,10 @@ import time
 import random
 
 # ABOBA
+#asdasd
+#dsadsaasd
+
+print('...')
 
 class Item(pg.sprite.Sprite):
     def __init__(self, x, y, img, invx, invy, invimg, name):
